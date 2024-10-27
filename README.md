@@ -2,6 +2,6 @@
 
 Set of recipes as given by my grandma.
 
-- ps (TODO)
-- ss (TODO)
-- ss (TODO)
+- pizzas (TODO)
+- sauces (TODO)
+- spreads (TODO)
